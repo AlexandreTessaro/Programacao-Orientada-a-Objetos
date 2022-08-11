@@ -1,0 +1,5 @@
+C:\Users\Alexandre\OneDrive - Católica SC\Documentos\GitHub\Programacao-Orientada-a-Objetos\03ExercíciosEscolar\obj\Debug\net6.0\03ExercíciosEscolar.csproj.AssemblyReference.cache
+C:\Users\Alexandre\OneDrive - Católica SC\Documentos\GitHub\Programacao-Orientada-a-Objetos\03ExercíciosEscolar\obj\Debug\net6.0\03ExercíciosEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\OneDrive - Católica SC\Documentos\GitHub\Programacao-Orientada-a-Objetos\03ExercíciosEscolar\obj\Debug\net6.0\03ExercíciosEscolar.AssemblyInfoInputs.cache
+C:\Users\Alexandre\OneDrive - Católica SC\Documentos\GitHub\Programacao-Orientada-a-Objetos\03ExercíciosEscolar\obj\Debug\net6.0\03ExercíciosEscolar.AssemblyInfo.cs
+C:\Users\Alexandre\OneDrive - Católica SC\Documentos\GitHub\Programacao-Orientada-a-Objetos\03ExercíciosEscolar\obj\Debug\net6.0\03ExercíciosEscolar.csproj.CoreCompileInputs.cache
