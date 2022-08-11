@@ -13,3 +13,11 @@ C:\Users\Alexandre\OneDrive - Católica SC\Documentos\GitHub\Programacao-Orienta
 C:\Users\Alexandre\OneDrive - Católica SC\Documentos\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\obj\Debug\net6.0\01Conceitos.pdb
 C:\Users\Alexandre\OneDrive - Católica SC\Documentos\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\obj\Debug\net6.0\01Conceitos.genruntimeconfig.cache
 C:\Users\Alexandre\OneDrive - Católica SC\Documentos\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\obj\Debug\net6.0\ref\01Conceitos.dll
+C:\Users\al.vieira\Documents\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\obj\Debug\net6.0\01Conceitos.csproj.AssemblyReference.cache
+C:\Users\al.vieira\Documents\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\obj\Debug\net6.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al.vieira\Documents\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\obj\Debug\net6.0\01Conceitos.AssemblyInfoInputs.cache
+C:\Users\al.vieira\Documents\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\obj\Debug\net6.0\01Conceitos.AssemblyInfo.cs
+C:\Users\al.vieira\Documents\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\obj\Debug\net6.0\01Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\al.vieira\Documents\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\obj\Debug\net6.0\01Conceitos.dll
+C:\Users\al.vieira\Documents\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\obj\Debug\net6.0\refint\01Conceitos.dll
+C:\Users\al.vieira\Documents\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\obj\Debug\net6.0\01Conceitos.pdb
