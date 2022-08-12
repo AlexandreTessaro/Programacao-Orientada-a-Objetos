@@ -21,3 +21,10 @@ C:\Users\al.vieira\Documents\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\
 C:\Users\al.vieira\Documents\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\obj\Debug\net6.0\01Conceitos.dll
 C:\Users\al.vieira\Documents\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\obj\Debug\net6.0\refint\01Conceitos.dll
 C:\Users\al.vieira\Documents\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\obj\Debug\net6.0\01Conceitos.pdb
+C:\Users\al.vieira\Documents\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\bin\Debug\net6.0\01Conceitos.exe
+C:\Users\al.vieira\Documents\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\bin\Debug\net6.0\01Conceitos.deps.json
+C:\Users\al.vieira\Documents\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\bin\Debug\net6.0\01Conceitos.runtimeconfig.json
+C:\Users\al.vieira\Documents\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\bin\Debug\net6.0\01Conceitos.dll
+C:\Users\al.vieira\Documents\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\bin\Debug\net6.0\01Conceitos.pdb
+C:\Users\al.vieira\Documents\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\obj\Debug\net6.0\01Conceitos.genruntimeconfig.cache
+C:\Users\al.vieira\Documents\GitHub\Programacao-Orientada-a-Objetos\01Conceitos\obj\Debug\net6.0\ref\01Conceitos.dll

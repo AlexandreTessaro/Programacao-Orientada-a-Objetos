@@ -1,12 +1,13 @@
+
 using System;
 
 class Pessoa{
     // Atributos
     public string nome;
-    public string idade;
+    public int idade;
 
     // Métodos
     public void mensagem(){
-        Console.WriteLine("Olá "+nome+" você tem "+idade+" anos");
+        Console.WriteLine("Olá "+nome+" você tem "+Convert.ToString(idade)+" anos");
     }
 }
