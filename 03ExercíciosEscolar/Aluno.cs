@@ -17,7 +17,7 @@ class Aluno{
     }
 
     // Mensagem
-    public void mensagem{
+    public void mensagem(){
         // Obter média
         double obterMedia = media();
         // Obter a situação
