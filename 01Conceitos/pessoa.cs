@@ -1,3 +1,4 @@
+
 using System;
 
 class Pessoa{
@@ -7,6 +8,6 @@ class Pessoa{
 
     // Métodos
     public void mensagem(){
-        Console.WriteLine("Olá "+nome+" você tem "+idade+" anos");
+        Console.WriteLine("Olá "+nome+" você tem "+Convert.ToString(idade)+" anos");
     }
 }
